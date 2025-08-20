@@ -22,6 +22,10 @@
      section.pre_cut .key-feature-wrp {
          margin-bottom: 10px;
      }
+     .services .service-item p {
+         height: auto;
+     }
+
 section.pre_cut .nav .nav-item .nav-link{
     font-size: 13px;
     padding: 6px 10px;
