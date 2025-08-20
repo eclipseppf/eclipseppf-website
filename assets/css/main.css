@@ -2363,6 +2363,7 @@ section.pre_cut .nav .nav-item .nav-link.active {
 section.pre_cut .nav {
   justify-content: center;
   column-gap: 10px;
+  row-gap: 10px;
 }
 
 section.pre_cut h2::after {
