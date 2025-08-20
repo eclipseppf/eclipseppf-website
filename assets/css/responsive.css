@@ -1,0 +1,399 @@
+ @media screen and (max-width:480px) {
+     section.pre_cut .key-feature-wrp {
+         padding: 10px 20px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text h3 {
+         font-size: 20px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text p {
+         font-size: 14px;
+     }
+
+     section.pre_cut .key-feature-wrp .feature_icon img {
+         width: 65px;
+     }
+
+     section.pre_cut .key-feature-wrp::after {
+         width: 170px;
+     }
+
+     section.pre_cut .key-feature-wrp {
+         margin-bottom: 10px;
+     }
+section.pre_cut .nav .nav-item .nav-link{
+    font-size: 13px;
+    padding: 6px 10px;
+    
+}
+section.pre_cut .nav{
+    column-gap: 5px;
+    row-gap: 5px;
+}
+     .offcanvas.precut_canvas {
+         --bs-offcanvas-width: 100%;
+         scroll-behavior: smooth;
+     }
+
+     .offcanvas.precut_canvas .precut_links ul li a {
+         font-size: 14px;
+         padding: 5px 12px;
+     }
+
+     .offcanvas.precut_canvas .precut_bottom {
+         width: 48%;
+     }
+
+     .offcanvas.precut_canvas .precut_images {
+         padding: 10px;
+     }
+
+     .offcanvas.precut_canvas .precut_text h5 {
+         font-size: 14px;
+     }
+
+     .offcanvas.precut_canvas .offcanvas-header .btn-close {
+         margin: 0;
+         padding: 0;
+         width: 33%;
+         left: 0;
+         background-position: left;
+         height: 33%;
+     }
+
+     .offcanvas.precut_canvas .offcanvas-header {
+         padding: 10px 20px;
+     }
+
+     .offcanvas.precut_canvas .center_text {
+         width: 33%;
+         text-align: center;
+     }
+
+     .offcanvas.precut_canvas .carimage {
+         width: 33%;
+         text-align: end;
+     }
+ }
+
+ @media only screen and (min-width:481px) and (max-width:640px) {
+     section.pre_cut .key-feature-wrp {
+         padding: 10px 20px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text h3 {
+         font-size: 20px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text p {
+         font-size: 14px;
+     }
+
+     section.pre_cut .key-feature-wrp .feature_icon img {
+         width: 65px;
+     }
+
+     section.pre_cut .key-feature-wrp::after {
+         width: 170px;
+     }
+
+     section.pre_cut .key-feature-wrp {
+         margin-top: 10px;
+     }
+
+     .offcanvas.precut_canvas {
+         --bs-offcanvas-width: 100%;
+         scroll-behavior: smooth;
+     }
+
+     .offcanvas.precut_canvas .precut_links ul li a {
+         font-size: 14px;
+         padding: 5px 12px;
+     }
+
+     .offcanvas.precut_canvas .precut_bottom {
+         width: 48%;
+     }
+
+     .offcanvas.precut_canvas .precut_images {
+         padding: 10px;
+     }
+
+     .offcanvas.precut_canvas .precut_text h5 {
+         font-size: 14px;
+     }
+
+     .offcanvas.precut_canvas .offcanvas-header .btn-close {
+         margin: 0;
+         padding: 0;
+         width: 33%;
+         left: 0;
+         background-position: left;
+         height: 33%;
+     }
+
+     .offcanvas.precut_canvas .offcanvas-header {
+         padding: 10px 20px;
+     }
+
+     .offcanvas.precut_canvas .center_text {
+         width: 33%;
+     }
+
+     .offcanvas.precut_canvas .carimage {
+         width: 33%;
+         text-align: end;
+     }
+ }
+
+
+ @media screen and (min-width:800px) and (max-width:1280px) {
+
+
+     section.pre_cut .key-feature-wrp {
+         padding: 15px 25px;
+         margin-bottom: 20px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text h3 {
+         font-size: 22px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text p {
+         font-size: 15px;
+     }
+
+     .offcanvas.precut_canvas .precut_links ul li a {
+         font-size: 14px;
+     }
+
+     .offcanvas.precut_canvas .precut_text h5 {
+         font-size: 15px;
+     }
+
+     .offcanvas.precut_canvas .center_text h4 {
+         font-size: 20px;
+     }
+ }
+
+
+ @media only screen and (min-width:1024px) and (max-width:1200px) {
+     section.pre_cut .key-feature-wrp {
+         padding: 12px 18px;
+         margin-bottom: 15px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text h3 {
+         font-size: 18px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text p {
+         font-size: 12px;
+     }
+
+     .offcanvas.precut_canvas .precut_links ul li a {
+         font-size: 12px;
+         padding: 6px 12px;
+     }
+
+     .offcanvas.precut_canvas .offcanvas-header {
+         padding: 0px 20px;
+     }
+
+     .offcanvas.precut_canvas .precut_text h5 {
+         font-size: 14px;
+     }
+
+     .offcanvas.precut_canvas .center_text h4 {
+         font-size: 18px;
+     }
+
+     section.pre_cut .key-feature-wrp .feature_icon img {
+         width: 55px;
+     }
+
+     section.pre_cut .key-feature-wrp::after {
+         width: 160px;
+     }
+ }
+
+ @media only screen and (min-width:800px) and (max-width:991px) {
+     section.pre_cut .key-feature-wrp {
+         padding: 8px 14px;
+         margin-bottom: 15px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text h3 {
+         font-size: 13px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text p {
+         font-size: 9px;
+     }
+
+     .offcanvas.precut_canvas .precut_links ul li a {
+         font-size: 9px;
+         padding: 6px 12px;
+         border-radius: 2px;
+     }
+
+     .offcanvas.precut_canvas .precut_links ul {
+         column-gap: 5px;
+         row-gap: 5px;
+     }
+
+     .offcanvas.precut_canvas .precut_images {
+         padding: 10px;
+     }
+
+     .offcanvas.precut_canvas .precut_carmodels {
+         row-gap: 5px;
+         column-gap: 5px;
+     }
+
+     .offcanvas.precut_canvas .carimage img {
+         width: 50px;
+     }
+
+     .offcanvas.precut_canvas .offcanvas-header {
+         padding: 0px 20px;
+     }
+
+     .offcanvas.precut_canvas .precut_text h5 {
+         font-size: 10px;
+         padding: 4px;
+     }
+
+     .offcanvas.precut_canvas .center_text h4 {
+         font-size: 14px;
+     }
+
+     section.pre_cut .key-feature-wrp .feature_icon img {
+         width: 40px;
+     }
+
+     section.pre_cut .key-feature-wrp::after {
+         width: 140px;
+     }
+ }
+
+ @media only screen and (min-width:641px) and (max-width:786px) {
+     section.pre_cut .key-feature-wrp {
+         padding: 8px 14px;
+         margin-bottom: 15px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text h3 {
+         font-size: 13px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text p {
+         font-size: 9px;
+     }
+
+     .offcanvas.precut_canvas .precut_links ul li a {
+         font-size: 9px;
+         padding: 6px 12px;
+         border-radius: 2px;
+     }
+
+     .offcanvas.precut_canvas .precut_links ul {
+         column-gap: 5px;
+         row-gap: 5px;
+     }
+
+     .offcanvas.precut_canvas .precut_images {
+         padding: 10px;
+     }
+
+     .offcanvas.precut_canvas .precut_carmodels {
+         row-gap: 5px;
+         column-gap: 5px;
+     }
+
+     .offcanvas.precut_canvas .carimage img {
+         width: 50px;
+     }
+
+     .offcanvas.precut_canvas .offcanvas-header {
+         padding: 0px 20px;
+     }
+
+     .offcanvas.precut_canvas .precut_text h5 {
+         font-size: 10px;
+         padding: 4px;
+     }
+
+     .offcanvas.precut_canvas .center_text h4 {
+         font-size: 14px;
+     }
+
+     section.pre_cut .key-feature-wrp .feature_icon img {
+         width: 40px;
+     }
+
+     section.pre_cut .key-feature-wrp::after {
+         width: 140px;
+     }
+ }
+
+ @media only screen and (min-width:571px) and (max-width:766px) {
+     section.pre_cut .key-feature-wrp {
+         padding: 8px 14px;
+         margin-bottom: 15px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text h3 {
+         font-size: 13px;
+     }
+
+     section.pre_cut .key-feature-wrp .key-feature-text p {
+         font-size: 9px;
+     }
+
+     .offcanvas.precut_canvas .precut_links ul li a {
+         font-size: 9px;
+         padding: 6px 12px;
+         border-radius: 2px;
+     }
+
+     .offcanvas.precut_canvas .precut_links ul {
+         column-gap: 5px;
+         row-gap: 5px;
+     }
+
+     .offcanvas.precut_canvas .precut_images {
+         padding: 10px;
+     }
+
+     .offcanvas.precut_canvas .precut_carmodels {
+         row-gap: 5px;
+         column-gap: 5px;
+     }
+
+     .offcanvas.precut_canvas .carimage img {
+         width: 50px;
+     }
+
+     .offcanvas.precut_canvas .offcanvas-header {
+         padding: 0px 20px;
+     }
+
+     .offcanvas.precut_canvas .precut_text h5 {
+         font-size: 10px;
+         padding: 4px;
+     }
+
+     .offcanvas.precut_canvas .center_text h4 {
+         font-size: 14px;
+     }
+
+     section.pre_cut .key-feature-wrp .feature_icon img {
+         width: 40px;
+     }
+
+     section.pre_cut .key-feature-wrp::after {
+         width: 140px;
+     }
+ }
